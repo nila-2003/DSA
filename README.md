@@ -1,2 +1,2 @@
 # DSA
-Extensive C++ Programs
+Extensive DSA programs in C++
